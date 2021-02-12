@@ -1,0 +1,7 @@
+# Fonction de la Commande sudo
+
+Abréviation pour "SuperUser Do", cette commande permet executer des tâches qui requiert d'être administrateur ou avoir la permission d'accès au fichier root.
+
+Cependant il n'est pas conseillé d'utiliser cette commande dans une utilisation quotidienne car il pourrait être très facile de créer des erreurs si vous faites une mauvaise manipulation.
+
+
